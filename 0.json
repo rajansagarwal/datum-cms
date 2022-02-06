@@ -1,0 +1,15 @@
+[{
+		"index": 0,
+		"time": "01/01/2020",
+		"graph": {
+			"keywords": "N/A",
+			"encrypted": "Genesis Block",
+			"pubKey": "N/A",
+			"privKey": "N/A",
+			"validity": "Mined! Chain is Valid!"
+		},
+		"keywords": "pathogenic",
+		"prev": "0",
+		"hash": "a5984ecf5e62100164676af8b039f648f21852333aceeb09d99019cc0ec828ec",
+		"nonce": 0
+	}]
